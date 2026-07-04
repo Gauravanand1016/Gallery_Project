@@ -1,13 +1,16 @@
 <h1>React Concepts Used</h1>
-.Functional Components
-.React Hooks (useState, useEffect)
-.State Management
-.Props
-.Component-Based Architecture
-.Conditional Rendering
-.List Rendering (map())
-.Event Handling
-.API Integration with Axios
-.Dynamic Data Fetching
-.Pagination Logic
-.Reusable Components
+
+<ul>
+    <li>Functional Components</li>
+    <li>React Hooks (useState, useEffect)</li>
+    <li>State Management</li>
+    <li>Props</li>
+    <li>Component-Based Architecture</li>
+    <li>Conditional Rendering</li>
+    <li>List Rendering (map())</li>
+    <li>Event Handling</li>
+    <li>API Integration with Axios</li>
+    <li>Dynamic Data Fetching</li>
+    <li>Pagination Logic</li>
+    <li>Reusable Components</li>
+</ul>
