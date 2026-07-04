@@ -16,3 +16,6 @@
     <li>Pagination Logic</li>
     <li>Reusable Components</li>
 </ul>
+
+<h1>Summery:</h1>
+<p>React Image Gallery is a responsive web application developed using React.js, Axios, and Tailwind CSS. The project fetches images dynamically from the Lorem Picsum API and displays them in reusable card components with photographer details. It uses React's useState hook for state management and the useEffect hook to perform API requests whenever the page changes. Users can navigate through image collections using pagination controls, while a loading indicator enhances the user experience during data fetching. This project demonstrates skills in React Hooks, API integration, component-based architecture, asynchronous programming, responsive UI design, and modern frontend development practices.</p>
